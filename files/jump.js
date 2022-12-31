@@ -41,7 +41,7 @@ function hh() {
 function jp() {
 	var a = document.createElement('a');
 	a.setAttribute('rel', 'noreferrer');
-	a.setAttribute('href', "https://corestudi0.github.io/newyear");
+	//a.setAttribute('href', "https://corestudi0.github.io/newyear");
 	document.body.appendChild(a);
 	a.click();
 	document.body.removeChild(a);
