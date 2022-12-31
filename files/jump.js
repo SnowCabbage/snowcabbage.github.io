@@ -17,8 +17,8 @@ function jump1() {
 
 function jump2() {
 	gotoData = {
-		"hb": "https://corestudi0.github.io/newyear",
-		"hb1": "https://corestudi0.github.io/newyear",
+		//"hb": "https://corestudi0.github.io/newyear",
+		//"hb1": "https://corestudi0.github.io/newyear",
 	}
 	if (gotoData[window.location.pathname] != undefined) {
 		//a(gotoData[window.location.pathname])
